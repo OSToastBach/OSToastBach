@@ -1,6 +1,6 @@
 # hello this is my github profile
 
-I'm a retro tech nerd, sometimes i do programming,  
+i love oldschool tech, sometimes i do programming,  
 when i do it's in c, assembly or basic
 
 | cool                  | things                      |
