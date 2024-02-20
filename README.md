@@ -1,11 +1,11 @@
 # hello this is my github profile
 
-i love oldschool tech, sometimes i do programming,  
-when i do it's in c or assembly
+i mostly do stuff for retro machines for the [demoscene](https://en.wikipedia.org/wiki/Demoscene)
 
-| cool                  | things                      |
-| --------------------- | --------------------------- |
-| 3D Pinball Highscore  | 21,545,750                  |
-| Favourite Platform    | Dragon 32                   |
-| Wesbite               | https://wavetable.cymru     |
-| Twitter               | @MSGS_Wavetable             |
+| cool                  | things                            |
+| --------------------- | --------------------------------- |
+| Demozoo               | https://demozoo.org/sceners/89891/|
+| Mastodon              | @enfys@wetdry.world               |
+| Twitter               | @MSGS_Wavetable                   |
+| Website               | https://wavetable.cymru           |
+| 3D Pinball Highscore  | 21,545,750                        |
