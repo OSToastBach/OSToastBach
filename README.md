@@ -6,6 +6,5 @@ i mostly do stuff for retro machines for the [demoscene](https://en.wikipedia.or
 | --------------------- | --------------------------------- |
 | Demozoo               | https://demozoo.org/sceners/89891/|
 | Mastodon              | @enfys@wetdry.world               |
-| Twitter               | @MSGS_Wavetable                   |
-| Website               | https://wavetable.cymru           |
+| Website               | https://enfys.wales/              |
 | 3D Pinball Highscore  | 21,545,750                        |
